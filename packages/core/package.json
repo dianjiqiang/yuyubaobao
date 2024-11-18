@@ -1,6 +1,6 @@
 {
   "name": "@yuyubaobao/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "bin文件",
   "author": "dianjiqiang <609661157@qq.com>",
   "homepage": "",
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "06f4a90f0fc0a6774f50972939aa60ce3834cc26"
+  "gitHead": "00a475bada05f75adbc99fde3911ee795bc56175"
 }
