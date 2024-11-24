@@ -1,7 +1,7 @@
 {
   "name": "yuyubaobao",
   "version": "1.0.6",
-  "main": "index.js",
+  "main": "/lib/utils.js",
   "private": false,
   "publishConfig": {
     "access": "public"

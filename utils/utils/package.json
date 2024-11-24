@@ -5,7 +5,7 @@
   "author": "dianjiqiang <609661157@qq.com>",
   "homepage": "",
   "license": "MIT",
-  "main": "lib/utils.js",
+  "main": "/lib/index.js",
   "private": false,
   "publishConfig": {
     "access": "public"
