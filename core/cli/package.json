@@ -1,6 +1,6 @@
 {
   "name": "@yuyubaobao/core",
-  "version": "1.0.11",
+  "version": "1.0.15",
   "description": "bin文件",
   "author": "dianjiqiang <609661157@qq.com>",
   "homepage": "",
@@ -24,8 +24,8 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@yuyubaobao/log": "^1.0.11",
-    "@yuyubaobao/utils": "^1.0.11",
+    "@yuyubaobao/log": "^1.0.15",
+    "@yuyubaobao/utils": "^1.0.15",
     "colors": "^1.4.0",
     "dedent": "^1.5.3",
     "import-local": "^3.2.0",
