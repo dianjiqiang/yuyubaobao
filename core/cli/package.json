@@ -24,13 +24,13 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@yuyubaobao/log": "file:../../utils/log",
-    "@yuyubaobao/utils": "file:../../utils/utils",
+    "@yuyubaobao/log": "^1.0.11",
+    "@yuyubaobao/utils": "^1.0.11",
     "colors": "^1.4.0",
     "dedent": "^1.5.3",
     "import-local": "^3.2.0",
     "npmlog": "^7.0.1",
     "semver": "^7.6.3"
   },
-  "gitHead": "952b944ad9e239c3363a16b379a79fbde88d7841"
+  "gitHead": "ffbce32f782243d9263bb1936437f2410bd40c92"
 }
