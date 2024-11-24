@@ -4,7 +4,7 @@ const utils = require('@yuyubaobao/utils')
 
 function core() {
     // TODO
-    console.log(utils());
+    console.log(utils(),'----------');
     // console.log('-------');
     
 }
