@@ -1,4 +1,5 @@
-#! /usr/bin/env node
+'use strict'
+
 module.exports = {
   add(a, b) {
     console.log(a + b)
