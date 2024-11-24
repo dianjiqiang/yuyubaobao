@@ -6,6 +6,7 @@
   "homepage": "",
   "license": "MIT",
   "main": "lib/utils.js",
+  "private": false,
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -16,5 +17,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "ecc932b291e78d5c55c40180cb9bf67c302cb95b"
+  "gitHead": "381825428a427f7fb55f334f387675111668be5f"
 }

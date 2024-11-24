@@ -1,9 +1,9 @@
 {
-  "packages": [
-    "core/*",
-    "modules/*",
-    "commands/*",
-    "utils/*"
-  ],
-  "version": "1.0.8"
+  "packages": ["core/*", "modules/*", "commands/*", "utils/*"],
+  "version": "1.0.8",
+  "command": {
+    "publish": {
+      "access": "public"
+    }
+  }
 }
