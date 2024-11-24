@@ -5,7 +5,7 @@
     "commands/*",
     "utils/*"
   ],
-  "version": "1.0.12",
+  "version": "1.0.13",
   "command": {
     "publish": {
       "access": "public"
