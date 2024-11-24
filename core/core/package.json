@@ -1,6 +1,6 @@
 {
   "name": "@yuyubaobao/core",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "bin文件",
   "author": "dianjiqiang <609661157@qq.com>",
   "homepage": "",
@@ -27,6 +27,6 @@
   },
   "gitHead": "952b944ad9e239c3363a16b379a79fbde88d7841",
   "devDependencies": {
-    "@yuyubaobao/core": "^1.0.11"
+    "@yuyubaobao/core": "^1.0.12"
   }
 }
