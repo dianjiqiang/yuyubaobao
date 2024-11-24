@@ -7,7 +7,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "description": "yuyubaobao cli",
   "devDependencies": {
     "lerna": "^3.22.1"

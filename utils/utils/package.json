@@ -4,7 +4,7 @@
   "description": "方法文件",
   "author": "dianjiqiang <609661157@qq.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/utils.js",
   "directories": {
     "lib": "lib",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "5f774e86ac1cf815e47f86cbc295d1a2af975184"
+  "gitHead": "ecc932b291e78d5c55c40180cb9bf67c302cb95b"
 }
