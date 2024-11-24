@@ -1,16 +1,9 @@
 #! /usr/bin/env node
-const utils = require('@yuyubaobao/utils')
+const importLocal = require('import-local')
+const npmlog = require('npmlog')
 
-
-function core() {
-    // TODO
-    console.log(utils(),'----------');
-    // console.log('-------');
-    
+if (importLocal(__filename)) {
+  npmlog.info('cli', '正在使用yuyubaobao本地版本')
+} else {
+  require('../lib/core.js')(process.argv.slice(2))
 }
-
-
-core()
-
-
-module.exports = core;

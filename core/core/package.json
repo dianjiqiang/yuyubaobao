@@ -17,7 +17,9 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@yuyubaobao/utils": "file:../utils/utils"
+    "@yuyubaobao/utils": "file:../utils/utils",
+    "import-local": "^3.2.0",
+    "npmlog": "^7.0.1"
   },
   "gitHead": "ecc932b291e78d5c55c40180cb9bf67c302cb95b"
 }
