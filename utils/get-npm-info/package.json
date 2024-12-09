@@ -1,5 +1,5 @@
 {
-  "name": "get-npm-info",
+  "name": "@yuyubaobao/get-npm-info",
   "version": "1.0.18",
   "description": "检查当前版本工具",
   "author": "dianjiqiang <609661157@qq.com>",
@@ -25,5 +25,5 @@
     "semver": "^7.6.3",
     "url-join": "^4.0.1"
   },
-  "gitHead": "5a5dd07402aa6c1e9105861e6a918719a37af92a"
+  "gitHead": "ce91f6ff86db61dc69123fdfa3a830ad111c9e91"
 }

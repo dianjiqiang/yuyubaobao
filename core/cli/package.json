@@ -25,8 +25,8 @@
   },
   "dependencies": {
     "@yuyubaobao/get-npm-info": "file:../../utils/get-npm-info",
-    "@yuyubaobao/log": "file:../../utils/log",
-    "@yuyubaobao/utils": "file:../../utils/utils",
+    "@yuyubaobao/log": "^1.0.15",
+    "@yuyubaobao/utils": "^1.0.18",
     "colors": "^1.4.0",
     "dedent": "^1.5.3",
     "dotenv": "^16.4.7",
@@ -38,5 +38,5 @@
     "semver": "^7.6.3",
     "user-home": "^3.0.0"
   },
-  "gitHead": "5a5dd07402aa6c1e9105861e6a918719a37af92a"
+  "gitHead": "ce91f6ff86db61dc69123fdfa3a830ad111c9e91"
 }
