@@ -1,6 +1,6 @@
 {
   "name": "@yuyubaobao/core",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "description": "bin文件",
   "author": "dianjiqiang <609661157@qq.com>",
   "homepage": "",
@@ -26,7 +26,7 @@
   "dependencies": {
     "@yuyubaobao/get-npm-info": "file:../../utils/get-npm-info",
     "@yuyubaobao/log": "^1.0.15",
-    "@yuyubaobao/utils": "^1.0.18",
+    "@yuyubaobao/utils": "^1.0.19",
     "colors": "^1.4.0",
     "dedent": "^1.5.3",
     "dotenv": "^16.4.7",
